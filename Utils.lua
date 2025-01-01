@@ -8,6 +8,8 @@ sCol = nil -- star color
 PhysicsEnabled = true -- bool to enable/disable physics
 World = nil -- physics world if enabled
 
+nLauncher = nil -- bool to track the neil launcher
+
 -- prepare for run
 function prep()
   viewer.mode = FULLSCREEN

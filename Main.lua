@@ -11,3 +11,6 @@ end
 function draw()
   background(BG)
 end
+
+function touched(touch)
+end
