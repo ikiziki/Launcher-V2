@@ -1,6 +1,6 @@
 Launcher = class()
 
-function Launcher:init(x)
+function Launcher:init()
 end
 
 function Launcher:update(dt)
